@@ -1,0 +1,42 @@
+# 旧バージョン・デバッグ用スクリプト
+eda_game.py
+eda_game_v2.py
+eda_game_pyGUI_test.py
+debag_test.py
+game.py
+make_csv.py
+make_csv2.py
+est_test.py
+test.py
+music.py
+make_char.py
+
+# 音楽ファイルのコピーフォルダ
+music - コピー/
+
+# 生データCSV（計測ログ）
+csv/
+
+# EDAグラフ画像（生成物）
+img/
+
+# 個別セッションのラベルCSV（中間生成物）
+label/0/
+label/1/
+label/all_datas0.csv
+
+# その他の生成ファイル
+confusion_matrix.png
+n2.png
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 仮想環境
+venv/
+.venv/
+env/
